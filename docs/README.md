@@ -69,11 +69,10 @@ crises with the use of modern technology capabilities for a
 better future.
 
 ## Publications
-1. [Semester 7 report](./)
-2. [Semester 7 slides](./)
-3. [Semester 8 report](./)
-4. [Semester 8 slides](./)
-5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./).
+1. [Semester 7 slides](https://docs.google.com/presentation/d/1T2sVkA180AaTghzwE8Q9yPhVt_3oj_0D5MgQr_NV7dY/edit?usp=sharing)
+2. [Semester 8 report](./)
+3. [Semester 8 slides](https://docs.google.com/presentation/d/1gyMvy4A_dPVk4KGqG9aY2cI8pPKA_r-0UanRG0x84dI/edit?usp=sharing)
+<!-- 4. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
 
 
 ## Links
