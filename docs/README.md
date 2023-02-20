@@ -64,7 +64,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict)
 - [Project Page](https://cepdnaclk.github.io/repository-name)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
