@@ -25,32 +25,48 @@ title:
 
 #### Table of content
 
-1. [Abstract](#abstract)
-2. [Related works](#related-works)
-3. [Methodology](#methodology)
-4. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
-5. [Results and Analysis](#results-and-analysis)
-6. [Conclusion](#conclusion)
-7. [Publications](#publications)
-8. [Links](#links)
+1. [Project Summary](#project-summary)
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
+## Project Summary
 
-![Sample Image](./images/sample.png)
+Human-Elephant conflict has caused damage to the
+well-being of life for many decades. The methods taken to avoid
+and mitigate these harmful interactions have not provided safe
+outcomes as expected. So the requirement of a long-term solution
+for these conflicts arises to reduce the impacts. We propose
+a method using computer vision and Agent-based Modelling
+(ABM) techniques together, to provide a set of optimal long-
+term policies to reduce the impacts significantly for conflict-
+bound regions. The initial stage of this work focuses on creating
+a segmented image from a given satellite/aerial image with
+different classes such as water, buildings, croplands, etc to
+represent the area of impact. Then in the second stage, these
+images should be converted to an ABM-friendly format. At
+the final stage, they can be used to simulate the real-world
+environment with the related agents using a suitable Agent-based
+model. This method is capable of providing policies with optimal
+parameters for population counts, and safe distances to human
+regions from elephant habitats for notable reductions in conflicts.
+The real environment is simulated through ABM frameworks
+and human-elephant behavioral patterns are provided to create
+heterogeneous agents with stochastic movements. The identified
+best-case policies for a region can aid the decision-makers of
+the governments, and wildlife authorities to move forward with
+safe construction planning and conservation of elephant habitats.
+Ultimately, the use of this prediction and simulation model will
+provide recommended strategies to improve the survival rate by
+reducing human-elephant conflicts in many regions of the world.
 
-## Abstract
-
-## Related works
-
-## Methodology
-
-## Experiment Setup and Implementation
-
-## Results and Analysis
-
-## Conclusion
+We believe this research expands the scope that can be
+explored with the use of combining computer vision with
+agent-based modelling for solving interaction-based problems
+that is a threat to the world with simulated environments.
+Further research and improvements with this existing model
+will generate more substantial results that would solve world
+crises with the use of modern technology capabilities for a
+better future.
 
 ## Publications
 1. [Semester 7 report](./)
@@ -67,7 +83,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 - [Project Repository](https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict)
 - [Project Page](https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
+- [University of Peradeniya](https://pdn.ac.lk/)
 
 
 [//]: # "Please refer this to learn more about Markdown syntax"
