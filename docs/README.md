@@ -26,6 +26,8 @@ title:
 #### Table of content
 
 1. [Project Summary](#project-summary)
+2. [Publications](#publications)
+3. [Links](#links)
 
 ---
 
