@@ -7,14 +7,21 @@ Human-Elephant conflict has caused damage to the well-being of life for many dec
 We believe this research expands the scope that can be explored with the use of combining computer vision with agent-based modelling for solving interaction-based problems that is a threat to the world with simulated environments. Further research and improvements with this existing model will generate more substantial results that would solve world crises with the use of modern technology capabilities for a better future.
 
 
-#### Team
+
+<img width="1095" alt="image" src="https://user-images.githubusercontent.com/59405594/220525567-51382a48-9405-478b-8528-f082046d02ce.png">
+
+### Team
 
 - E/16/057, Chamith U.K.D.K, [email](mailto:e16057@eng.pdn.ac.lk)
 - E/16/076, Deshan L.A.C, [email](mailto:e16076@eng.pdn.ac.lk)
 - E/16/368, Thisanke M.K.H, [email](mailto:e16368@eng.pdn.ac.lk)
 
-#### Supervisors
+### Supervisors
 
 - Dr. Damayanthi Herath, [email](mailto:damayanthiherath@eng.pdn.ac.lk)
 - Dr. Sachith Seneviratne, [email](mailto:sachith.seneviratne@unimelb.edu.au)
 - Dr. Rajith Vidanaarachchi, [email](mailto:rajith.vidanaarachchi@unimelb.edu.au)
+
+### Links
+
+- [Project Page](https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/)
