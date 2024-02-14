@@ -9,7 +9,7 @@ title:
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Using Computer Vision and Agent-Based Modelling to explore the Human-Elephant conflict
+# Computer Vision and Agent-Based Modeling for managing Human-Elephant conflict
 
 #### Team
 
@@ -76,7 +76,7 @@ better future.
 1. [Semester 7 slides](https://docs.google.com/presentation/d/1T2sVkA180AaTghzwE8Q9yPhVt_3oj_0D5MgQr_NV7dY/edit?usp=sharing)
 2. [Semester 8 report](./)
 3. [Semester 8 slides](https://docs.google.com/presentation/d/1gyMvy4A_dPVk4KGqG9aY2cI8pPKA_r-0UanRG0x84dI/edit?usp=sharing)
-4. [Hans Thisanke, Chamli Deshan, Kavindu Chamith, Damayanthi Herath, Sachith Seneviratne and Rajith Vidanaarachchi "Semantic Segmentation using Vision Transformers: A survey" (2022) _Under Review_](https://track.authorhub.elsevier.com/?uuid=6d4da08f-048a-4e86-8a4a-e0dce9a2eafb)
+4. [Hans Thisanke, Chamli Deshan, Kavindu Chamith, Damayanthi Herath, Sachith Seneviratne and Rajith Vidanaarachchi "Semantic Segmentation using Vision Transformers: A survey" (2022)](https://doi.org/10.1016/j.engappai.2023.106669)
 
 <!-- 4. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
 
